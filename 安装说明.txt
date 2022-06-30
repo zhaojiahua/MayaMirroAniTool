@@ -1,0 +1,1 @@
+直接将zjhmenus_install.py这个文件拖拽到Maya场景里面即可(适应版本Maya2018)

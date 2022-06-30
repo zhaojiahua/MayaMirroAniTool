@@ -1,0 +1,1 @@
+win2.SetRadio([win2.rb3,win2.rb4])

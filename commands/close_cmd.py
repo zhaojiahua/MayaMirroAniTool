@@ -1,0 +1,1 @@
+cmds.deleteUI(win.win_name)
